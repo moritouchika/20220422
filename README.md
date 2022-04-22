@@ -1,8 +1,7 @@
 ## 自己紹介
 
-現在、大阪で情報系のことなどを学んでいる専門学生です。
-高校では映像芸術、メディア表現について学んでいました。
-
+大阪→兵庫→大阪→熊本→静岡→埼玉と引っ越して現在、大阪で情報系のことなどを学んでいる専門学生です。  
+高校では映像芸術、メディア表現について学んでいました。大きく分けて「ビデオ」「写真」「CGイラスト・アニメーション]という形で表現して発信していきます。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
