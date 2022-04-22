@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 自己紹介
 
-You can use the [editor on GitHub](https://github.com/moritouchika/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+現在、大阪で情報系のことなどを学んでいる専門学生です。
+高校では映像芸術、メディア表現について学んでいました。
 
 ### Markdown
 
