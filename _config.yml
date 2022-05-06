@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
 title: 
 description: canvaで作りました。
 logo: /Starry Seas(1).png
